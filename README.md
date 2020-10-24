@@ -16,7 +16,7 @@
 
 <br/>
 ---
-<img align="left" alt="hmmatus" width="22px" src="https://github-readme-stats.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
+<img align="left" alt="hmmatus" src="https://github-readme-stats.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
 <br/>
 
 [twitter]: https://twitter.com/HManrique_Matus
