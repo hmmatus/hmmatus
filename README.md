@@ -18,6 +18,8 @@
 ---
 <img align="left" alt="hmmatus" src="https://github-readme-stats.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
 <br/>
+<img align="left" alt="hmmatus" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmatus"/>
+<br/>
 
 [twitter]: https://twitter.com/HManrique_Matus
 [instagram]: https://www.instagram.com/hm_matus/
