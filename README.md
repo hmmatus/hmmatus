@@ -15,6 +15,8 @@
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"/>][instagram]
 
 <br/>
+---
+<img align="left" alt="hmmatus" width="22px" src="https://github-readme-stats.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
 <br/>
 
 [twitter]: https://twitter.com/HManrique_Matus
