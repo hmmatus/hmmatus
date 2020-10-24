@@ -12,7 +12,7 @@
 
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.js"/>][instagram]
+[<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"/>][instagram]
 
 <br/>
 <br/>
