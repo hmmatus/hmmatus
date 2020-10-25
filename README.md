@@ -17,14 +17,14 @@
 <br/>
 
 <details>
-  <summary>⚡ Github Stats<summary/>
+  <summary>⚡ Github Stats</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
 </details>
 
 <br/>
 
 <details>
-  <summary>⚡ Most Used Languages<summary/>
+  <summary>⚡ Most Used Languages</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
 </details>
 
