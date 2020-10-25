@@ -15,11 +15,26 @@
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"/>][instagram]
 
 <br/>
----
-<img align="left" alt="hmmatus" src="https://github-readme-stats.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
+
+<details>
+  <summary>⚡ Github Stats<summary/>
+  <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
+<details/>
+
 <br/>
-<img align="left" alt="hmmatus" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmatus"/>
+
+<details>
+  <summary>⚡ Most Used Languages<summary/>
+  <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
+<details/>
+
 <br/>
+
+<!--START_SECTION:activity-->
+
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
+
 
 [twitter]: https://twitter.com/HManrique_Matus
 [instagram]: https://www.instagram.com/hm_matus/
