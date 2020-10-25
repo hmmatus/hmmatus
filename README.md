@@ -20,18 +20,18 @@
 <details>
   <summary>⚡ Github Stats</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
+  <br/>
+  <br/>
 </details>
 
-<br/>
-<br/>
 
 <details>
   <summary>⚡ Most Used Languages</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
+  <br/>
+  <br/>
 </details>
 
-<br/>
-<br/>
 
 <!--START_SECTION:activity-->
 
