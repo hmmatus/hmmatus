@@ -19,6 +19,7 @@
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"/>][instagram]
 
 <br />
+<br />
 
 <details>
   <summary>⚡ Github Stats</summary>
