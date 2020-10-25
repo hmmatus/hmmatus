@@ -8,45 +8,41 @@
 - 🎮 I like videogames and 📺 shows
 - 🥅 2020 goal: Learn a new programming language
 
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/instagram.svg"/>][instagram]
 
-<br/>
-<br/>
+
+---
 
 <details>
   <summary>⚡ Github Stats</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
-  <br/>
-  <br/>
 </details>
 
-  <br/>
-  <br/>
+---
 
 <details>
   <summary>⚡ Most Used Languages</summary>
   <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
-  <br/>
-  <br/>
 </details>
 
-  <br/>
-  <br/>
+---
 
-
+<details>
+  <summary>⚡ Most Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/hmmatus/Git-Test/issues/1) in [hmmatus/Git-Test](https://github.com/hmmatus/Git-Test)
 <!--END_SECTION:activity-->
+</details>
 
-<br/>
-<br/>
-
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
 
 
 [twitter]: https://twitter.com/HManrique_Matus
