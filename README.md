@@ -22,6 +22,7 @@
 </details>
 
 <br/>
+<br/>
 
 <details>
   <summary>⚡ Most Used Languages</summary>
@@ -29,8 +30,12 @@
 </details>
 
 <br/>
+<br/>
 
 <!--START_SECTION:activity-->
+
+<br/>
+<br/>
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
