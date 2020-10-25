@@ -21,18 +21,6 @@
 <br />
 <br />
 
-<details>
-  <summary>⚡ Github Stats</summary>
-  <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
-</details>
-
----
-
-<details>
-  <summary>⚡ Most Used Languages</summary>
-  <img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
-</details>
-
 ---
 
 <details>
@@ -41,6 +29,18 @@
 1. ❗️ Opened issue [#1](https://github.com/hmmatus/Git-Test/issues/1) in [hmmatus/Git-Test](https://github.com/hmmatus/Git-Test)
 <!--END_SECTION:activity-->
 </details>
+
+---
+
+### ⚡ Github Stats
+
+<img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api?username=hmmatus&show_icons=true&hide_border=true"/>
+
+### ⚡ Most Used Languages
+
+<img align="left" alt="hmmatus" src="https://github-readme-stats.hmmatus.vercel.app/api/top-langs/?username=hmmatus"/>
+
+
 
 
 
