@@ -24,6 +24,8 @@
   <br/>
 </details>
 
+  <br/>
+  <br/>
 
 <details>
   <summary>⚡ Most Used Languages</summary>
@@ -31,6 +33,9 @@
   <br/>
   <br/>
 </details>
+
+  <br/>
+  <br/>
 
 
 <!--START_SECTION:activity-->
