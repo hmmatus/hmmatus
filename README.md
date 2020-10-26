@@ -34,6 +34,8 @@
 <br/>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/hmmatus/Git-Test/issues/1) in [hmmatus/Git-Test](https://github.com/hmmatus/Git-Test)
+<!--END_SECTION:activity-->
 
 <br/>
 <br/>
