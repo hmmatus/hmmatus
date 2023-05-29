@@ -1,12 +1,12 @@
 ### Hello Stranger, I'm Hector - AKA [hmmatus] 🙋‍♂️
 
-## I'm a Salvadorian, 日本語の学生、Junior Developer!
+## I'm a Salvadorian, 日本語の学生、React native and Next developer!
 
 - 🎓 I'm gratuated as a Software Engineer
-- 🧑‍💼 I'm working as a React Native Developer at Applaudo Studios
+- 🧑‍💼 I'm working as a React Native Developer at Koibanx
 - ✈️ I like to travel, and have the goal to visit 🗾
 - 🎮 I like videogames and 📺 shows
-- 🥅 2020 goal: Learn a new programming language
+- 🥅 2023 goal: Enhance my knowledge with react native and next development
 
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
