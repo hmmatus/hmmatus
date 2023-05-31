@@ -8,10 +8,6 @@
 - 🎮 I like videogames and 📺 shows
 - 🥅 2023 goal: Enhance my knowledge with react native and next development
 
-### Spotify Playing 🎧
-[![Spotify](https://spotify-now-playing-opal-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/5vnz7rsrz3whf8upztwnjsxo7)
-
-
 ### Connect with me:
 
 [<img align="left" alt="hmmatus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/twitter.svg"/>][twitter]
