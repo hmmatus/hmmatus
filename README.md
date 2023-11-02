@@ -3,10 +3,10 @@
 ## I'm a Salvadorian, 日本語の学生、React native and Next developer!
 
 - 🎓 I'm gratuated as a Software Engineer
-- 🧑‍💼 I'm working as a React Native Developer at Koibanx
-- ✈️ I like to travel, and have the goal to visit 🗾
+- 🧑‍💼 I Worked for 3+ years as a Frontend Developer
+- ✈️ I like to travel
 - 🎮 I like videogames and 📺 shows
-- 🥅 2023 goal: Enhance my knowledge with react native and next development
+- Willing to learn the latest technologies
 
 ### Connect with me:
 
