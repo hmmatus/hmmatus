@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hector Manrique Matus Henriquez</h1>
 <h3 align="center">Software developer, my goal is to become Full Stack developer</h3>
 
-- 🔭 I’m currently working on [Movie rent webpage](https://github.com/hmmatus/web-next-movies)
+- 🔭 I’m currently working on [Pizpiretos](https://github.com/hmmatus/pizpiretos-app)
 
 - 🌱 I’m currently learning **NodeJS, Astro**
 
